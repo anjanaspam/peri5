@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_del_choice.friends_user" name="x_snc_del_choice.friends_user">f3d60da81b4c30107e32a82b234bcbce</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+        <sys_created_on>2021-05-07 17:58:31</sys_created_on>
+        <sys_id>b7d64da81b4c30107e32a82b234bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f3d60da81b4c30107e32a82b234bcbce</sys_name>
+        <sys_package display_value="del_choice" source="x_snc_del_choice">23b689a81b4c30107e32a82b234bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="del_choice">23b689a81b4c30107e32a82b234bcb48</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b7d64da81b4c30107e32a82b234bcb35</sys_update_name>
+        <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+        <sys_updated_on>2021-05-07 17:58:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_del_choice.friends_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>friends_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+        <sys_created_on>2021-05-07 17:58:31</sys_created_on>
+        <sys_id>f3d60da81b4c30107e32a82b234bcbce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_del_choice.friends_user</sys_name>
+        <sys_package display_value="del_choice" source="x_snc_del_choice">23b689a81b4c30107e32a82b234bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="del_choice">23b689a81b4c30107e32a82b234bcb48</sys_scope>
+        <sys_update_name>sys_user_role_f3d60da81b4c30107e32a82b234bcbce</sys_update_name>
+        <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+        <sys_updated_on>2021-05-07 17:58:31</sys_updated_on>
+    </sys_user_role>
+</record_update>

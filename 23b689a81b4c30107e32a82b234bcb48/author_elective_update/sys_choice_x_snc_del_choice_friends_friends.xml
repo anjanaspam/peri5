@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="friends" table="x_snc_del_choice_friends" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>friends</element>
+            <name>x_snc_del_choice_friends</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:59:10</sys_created_on>
+            <sys_id>0507cda81b4c30107e32a82b234bcb51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>friends</sys_name>
+            <sys_package display_value="del_choice" source="x_snc_del_choice">23b689a81b4c30107e32a82b234bcb48</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="del_choice">23b689a81b4c30107e32a82b234bcb48</sys_scope>
+            <sys_update_name>sys_choice_x_snc_del_choice_friends_friends</sys_update_name>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:59:10</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>friends</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>one</label>
+            <language>en</language>
+            <name>x_snc_del_choice_friends</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:59:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ff601e81b4c30107e32a82b234bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:59:10</sys_updated_on>
+            <value>one</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>friends</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>three</label>
+            <language>en</language>
+            <name>x_snc_del_choice_friends</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:59:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>711741e81b4c30107e32a82b234bcbd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:59:36</sys_updated_on>
+            <value>three</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>friends</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>two</label>
+            <language>en</language>
+            <name>x_snc_del_choice_friends</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b0701e81b4c30107e32a82b234bcb57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:59:27</sys_updated_on>
+            <value>two</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

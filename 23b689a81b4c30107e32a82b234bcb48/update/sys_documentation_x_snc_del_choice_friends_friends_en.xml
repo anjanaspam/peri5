@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="friends" label="Friends" language="en" table="x_snc_del_choice_friends">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>friends</element>
+            <help/>
+            <hint/>
+            <label>Friends</label>
+            <language>en</language>
+            <name>x_snc_del_choice_friends</name>
+            <plural>Friends</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2021-05-07 17:58:57</sys_created_on>
+            <sys_id>c2f6cda81b4c30107e32a82b234bcbca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Friends</sys_name>
+            <sys_package display_value="del_choice" source="x_snc_del_choice">23b689a81b4c30107e32a82b234bcb48</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="del_choice">23b689a81b4c30107e32a82b234bcb48</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_del_choice_friends_friends_en</sys_update_name>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2021-05-07 17:58:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
