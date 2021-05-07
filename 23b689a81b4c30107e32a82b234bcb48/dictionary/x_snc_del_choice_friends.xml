@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Friends" max_length="40" name="x_snc_del_choice_friends" type="collection">
-        <element choice="1" label="friends" max_length="40" name="friends" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="one" value="one"/>
-                <element inactive_on_update="false" label="three" value="three"/>
-                <element inactive_on_update="false" label="two" value="two"/>
-            </choice>
-        </element>
-    </element>
+    <element label="Friends" max_length="40" name="x_snc_del_choice_friends" type="collection"/>
 </database>
